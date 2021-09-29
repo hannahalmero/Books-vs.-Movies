@@ -1,6 +1,6 @@
-## Movies That Ruined Their Original Books
+## Books vs. Movie Adaptations
 
-  
+Popular books often turn into movies if they have enough potential to do so. Some classics like _To Kill a Mockingbird_ by Harper Lee, _Little Women_ by Louisa May Alcott, and so many more. However, avid fans of the books frequently find flaws in the settings, characters, and overall plot of the movies. 
 
 
 
