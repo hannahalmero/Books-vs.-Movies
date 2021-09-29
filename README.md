@@ -4,9 +4,9 @@ Popular books often turn into movies if they have enough potential to do so. Som
 
 
 
-### Markdown
+### Harry Potter
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+_Harry Potter_ is a book/movie series by J.K. Rowling. It is very beloved by people of all ages at it provides a little bit of magic in our lives. However, it's huge fan base often criticizes the problems that they finf within the movies, especially the portrayal of their characters. 
 
 ```markdown
 Syntax highlighted code block
