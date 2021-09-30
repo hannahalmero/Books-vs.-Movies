@@ -9,7 +9,12 @@ Popular books often turn into movies if they have enough potential to do so. Som
 _Harry Potter_ is a book/movie series by J.K. Rowling. It is very beloved by people of all ages at it provides a little bit of magic in our lives. However, it's huge fan base often criticizes the problems that they finf within the movies, especially the portrayal of their characters. 
 
 #### Ron Weasley
+
+Ronald Weasley, 1/3 of the Goldren Trio, son of Molly and Arthur Weasley, brother of many siblings, and one of Harry Potter's first friends at Hogwarts. In the books, he is a courageous, loyal, and smart-without-even-trying character. In the movies, however, he is portrayed as a hot-headed, lazy, and jealous person who is always envious of his best friend's, Harry Potter, fame and fortune. In the books, he introduces Harry to his family and gave him everything that the had even though he didn't have much in the first place. In the movies, it shows Ron ebing posseive and jealous, but they don't reveal his insecurities that are casung some of these actions. From this, the viewers don't get the full story. 
+
 #### Ginny Weasley
+
+
 #### Hermione Granger
 ```markdown
 Syntax highlighted code block
