@@ -18,7 +18,7 @@ The major flaws in Ginny Weasley's character from the movie impact her overall l
 
 #### Hermione Granger
 
-Hermione Granger is idolized in the Harry Potter fandom. 
+Hermione Granger is idolized in the Harry Potter fandom. S
 ```markdown
 Syntax highlighted code block
 
