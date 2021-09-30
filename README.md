@@ -14,6 +14,7 @@ Ronald Weasley, 1/3 of the Goldren Trio, son of Molly and Arthur Weasley, brothe
 
 #### Ginny Weasley
 
+The major flaws in Ginny Weasley's character from the movie impact her overall likeability. In the book, Ginny was this fiery, energetic, and independent character that wasn't afraid to speak her mind. The movies RUINED Ginny's character as they made her seem shy, timid, and an unsual (maybe even forced) love interest for Harry Potter. Instead of being 
 
 #### Hermione Granger
 ```markdown
