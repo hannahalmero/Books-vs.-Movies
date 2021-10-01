@@ -5,6 +5,7 @@ Popular books often turn into movies, if they have enough potential to do so. So
 ![Image](https://upload.wikimedia.org/wikipedia/commons/a/ac/Open_books.except.jpg)
 
 ### Harry Potter
+![Image](https://psycatgames.com/magazine/party-games/harry-potter-would-you-rather/feature-image_hua0feff45436b95e78101ce6cd116d725_1320141_1600x1200_fill_q100_box_smart1.jpg)
 
 _Harry Potter_ is a book/movie series by J.K. Rowling. It is very beloved by people of all ages at it provides a little bit of magic in our lives. However, it's huge fan base often criticizes the problems that they finf within the movies, especially the portrayal of their characters. 
 
