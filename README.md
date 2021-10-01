@@ -32,10 +32,10 @@ _Percy Jackson and the Olympians_ is a book series by Rick Riordan (there are al
 
 ### SOURCES
 
-Picture 1 CC license: https://creativecommons.org/licenses/by-sa/4.0/legalcode
+Picture 1 CC license: [https://creativecommons.org/licenses/by-sa/4.0/legalcode](https://creativecommons.org/licenses/by-sa/4.0/legalcode)
 
-Picture 2 CC license: https://creativecommons.org/licenses/by-nc/4.0/legalcode
+Picture 2 CC license: [https://creativecommons.org/licenses/by-nc/4.0/legalcode](https://creativecommons.org/licenses/by-nc/4.0/legalcode)
 
-Picture 3 CC lciense: https://creativecommons.org/licenses/by-sa/2.0/legalcode
+Picture 3 CC lciense: [https://creativecommons.org/licenses/by-sa/2.0/legalcode](https://creativecommons.org/licenses/by-sa/2.0/legalcode)
 
-Website Used: https://www.hypable.com/percy-jackson-3-movie-logan-lerman/
+Website Used: [https://www.hypable.com/percy-jackson-3-movie-logan-lerman/](https://www.hypable.com/percy-jackson-3-movie-logan-lerman/)
