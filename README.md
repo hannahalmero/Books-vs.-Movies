@@ -29,6 +29,9 @@ Hermione Granger, on the other hand, is idolized in the Harry Potter fandom. She
 _Percy Jackson and the Olympians_ is a book series by Rick Riordan (there are also other series and books). There are five books in the series, but only two of the books were made into movies. The second movie, _Percy Jackson and the Sea of Monsters_, had many differences from the second book. Instead of sticking to original plot from the book it is based off of, the movie uses scenes that should have been in the later books. This makes the movie nothing like the book as the plotline was messed up and mixed around. Because of this, many Percy Jackson fans (like myself) have a great dislike for the movies as they don't match up with what happened in the book. Even the author, Rick Riordan, has a distaste for the movies ([click here to read more about this](https://www.hypable.com/percy-jackson-3-movie-logan-lerman/)). If Rick Riordan was more included in the prodiction of these movies they could have been way more successful. 
 
 
+**Disclaimer:** I am not hating on the actors. I think they did a wonderful job. It's the writing of the script and plot for the movie that makes them different from the original. Additionally, movie adaptations do have their benefits such as recastings for more diverse characters. This allows a more inclusive cast that many people can enjoy and relate to. 
+
+
 
 ### SOURCES
 
