@@ -2,6 +2,8 @@
 
 Popular books often turn into movies, if they have enough potential to do so. Some classics like _To Kill a Mockingbird_ by Harper Lee, _Little Women_ by Louisa May Alcott, and so many more. However, avid fans of the books frequently find flaws in the settings, characters, and overall plot of the movies. 
 
+![Image](https://upload.wikimedia.org/wikipedia/commons/a/ac/Open_books.except.jpg)
+
 ### Harry Potter
 
 _Harry Potter_ is a book/movie series by J.K. Rowling. It is very beloved by people of all ages at it provides a little bit of magic in our lives. However, it's huge fan base often criticizes the problems that they finf within the movies, especially the portrayal of their characters. 
@@ -33,7 +35,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Link](url) and ![Image](src) ![Image](https://upload.wikimedia.org/wikipedia/commons/a/ac/Open_books.except.jpg)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
