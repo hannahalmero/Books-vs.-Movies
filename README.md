@@ -43,5 +43,7 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 ### Percy Jackson
 
+![Image](https://live.staticflickr.com/3715/9527836664_63b81c4b4b.jpg)
+
 _Percy Jackson and the Olympians_ is a book series by Rick Riordan (there are also other series and books). There are five books in the series, but only two of the books were made into movies. The second movie, _Percy Jackson and the Sea of Monsters_, had many differences from the second book. Instead of sticking to original plot from the book it is based off of, the movie uses scenes that should have been in the later books. This makes the movie nothing like the book as the plotline was messed up and mixed around. Because of this, many Percy Jackson fans (like myself) have a great dislike for the movies as they don't match up with what happened in the book. Even the author, Rick Riordan, has a distaste for the movies ([click here to read more about this](https://www.hypable.com/percy-jackson-3-movie-logan-lerman/)). If Rick Riordan was more included in the prodiction of these movies they could have been way more successful. 
 
