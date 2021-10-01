@@ -21,25 +21,6 @@ The major flaws in Ginny Weasley's character from the movie impact her overall l
 
 Hermione Granger, on the other hand, is idolized in the Harry Potter fandom. She is portrayed as this perfect student who doesn't make any mistakes. However, in the books, she still had quite a lot of character flaws. Hermions often found herself obessing over school, she was clode-minded, felt insecure when she wasn't able to learn or understand a topic, and was always extremely stressed under pressure. This side of Hermione was not as conveyed in the movies as it should have. Because of this, her character flaws got put onto other characters, especially Ron Weasley. 
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src) ![Image](https://upload.wikimedia.org/wikipedia/commons/a/ac/Open_books.except.jpg)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Percy Jackson
 
@@ -47,3 +28,10 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 _Percy Jackson and the Olympians_ is a book series by Rick Riordan (there are also other series and books). There are five books in the series, but only two of the books were made into movies. The second movie, _Percy Jackson and the Sea of Monsters_, had many differences from the second book. Instead of sticking to original plot from the book it is based off of, the movie uses scenes that should have been in the later books. This makes the movie nothing like the book as the plotline was messed up and mixed around. Because of this, many Percy Jackson fans (like myself) have a great dislike for the movies as they don't match up with what happened in the book. Even the author, Rick Riordan, has a distaste for the movies ([click here to read more about this](https://www.hypable.com/percy-jackson-3-movie-logan-lerman/)). If Rick Riordan was more included in the prodiction of these movies they could have been way more successful. 
 
+
+### SOURCES
+
+Picture 1 CC license: https://creativecommons.org/licenses/by-sa/4.0/legalcode
+Picture 2 CC license: https://creativecommons.org/licenses/by-nc/4.0/legalcode
+Picture 3 CC lciense: https://creativecommons.org/licenses/by-sa/2.0/legalcode
+Website Used: https://www.hypable.com/percy-jackson-3-movie-logan-lerman/
